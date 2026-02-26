@@ -28,7 +28,7 @@
 | **2025 Samsung Collegiate Programming Challenge : AI 챌린지 (Private 21위)**  | |
 | **Aimers 8기 : 모델 경량화 온라인 해커톤 (34위)**  | |
 | **호남IS해커톤: AI 데이터를 활용한 해커톤 (본선)**  | |
-| **HAI(하이)! - Hecto AI Challenge : 2025 하반기 헥토 채용 AI 경진대회**  | |
+| **HAI(하이)! - Hecto AI Challenge : 2025 하반기 헥토 채용 AI 경진대회 (Private 51위)**  | |
 | **한국 ITS학회 춘계 학부논문경진대회**  |  |
 
 

@@ -19,7 +19,7 @@
 
 | Date | Name | Place | Award | Hosted |
 |---|---|---|---|---|
-| `2026.07` | **공공데이터·AI 활용 창업경진대회** (BeaverTalk) | — | 🥇 **최우수상** | 전북특별자치도 |
+| `2026.07` | [**BeaverTalk**](https://www.beavertalk.im/) — 공공데이터·AI 활용 창업경진대회 <sub>AI 모델 개발 담당</sub> | — | 🥇 **최우수상** | 전북특별자치도 |
 | `2026.07` | [**AI Agent 다음 행동 예측**](https://github.com/dlxogh0906/AI-Agent-Action-Decision-Making-Prediction-Challenge) | **[26/269]** | — | Dacon |
 | `2026.02` | **LLM 모델 압축 해커톤** (LG Aimers 8기) | **[34/628]** | — | LG AI Research · Dacon |
 | `2025.10` | **학부논문경진대회** | — | 🥉 **장려상** | 한국ITS학회 |

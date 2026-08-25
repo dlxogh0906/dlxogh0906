@@ -7,13 +7,14 @@
 
 ### About me
 
-**inDJ** AI Engineer Intern (2026.07) — 위급상황 음향 탐지 시스템 평가 체계 재구축, Jetson Orin Nano 온디바이스 배포
-**조선대학교 SFAI** 학부연구생 (2024.05 ~ 2026.02) — 멀티모달 모델 실험, 학술대회 2건 발표
-**조선대학교** 인공지능공학과 (2021.03 ~ 2027.02 졸업예정)
+- **inDJ** AI Engineer Intern (2026.07) — 위급상황 음향 탐지 시스템 평가 체계 재구축, Jetson Orin Nano 온디바이스 배포
+- **조선대학교 SFAI** 학부연구생 (2024.05 ~ 2026.02) — 멀티모달 모델 실험, 학술대회 2건 발표
+- **조선대학교** 인공지능공학과 (2021.03 ~ 2027.02 졸업예정)
 
 ### PUBLICATION
 
 **A Comparative Study of PEFT Methods on LayoutLMv3 for Visually-rich Document Understanding**
+
 한국ITS학회 2025 추계학술대회 · **제1저자** · 2025.10
 
 ### COMPETITIONS & AWARDS

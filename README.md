@@ -1,50 +1,28 @@
-<div align="center">
-
-### Taeho Lee
-
-**조선대학교**
-🔧 본전공: 인공지능공학과 🤖 융합전공: 자율주행차융합전
+# Taeho Lee
 
 
-</div>
-
-
-### Award
-
-| Competition | Rank | Link |
-|:------------|:----:|:----:|
-| **건설용 자갈 암석 종류 분류 AI 경진대회** |  **1위** |
-| **2025 빛가람 에너지밸리 소프트웨어 작품 경진대회** |  **장려상** |
-| **2025 조선대학교 IT Festival 아이디어 공모전**  | **은상** |
-| **한국 ITS학회 추계 학부논문경진대회**  | **장려상** |
-
-
-### Experience
-
-| TITLE | Link |
-|:------------|:----:|
-| **Samsung AI Challenge 2025 Document Understanding (Private 3위)** | [🔗](https://github.com/dlxogh0906/2025-Samsung-AI-Challenge) |
-| **HAI(하이)! - Hecto AI Challenge : 2025 상반기 헥토 채용 AI 경진대회 (Private 18위)**  | |
-| **2025 Samsung Collegiate Programming Challenge : AI 챌린지 (Private 21위)**  | |
-| **Aimers 8기 : 모델 경량화 온라인 해커톤 (34위)**  | |
-| **호남IS해커톤: AI 데이터를 활용한 해커톤 (본선)**  | |
-| **HAI(하이)! - Hecto AI Challenge : 2025 하반기 헥토 채용 AI 경진대회 (Private 51위)**  | |
-| **한국 ITS학회 춘계 학부논문경진대회**  |  |
-
-
+[**CV**](https://drive.google.com/file/d/1WGdtNjFVZUxCzAwaBrYTJftpT1y2ZTD7/view?usp=sharing) · [**LinkedIn**](https://www.linkedin.com/in/dlxogh0906/)
 
 ---
 
-## 🛠️ Tech Stack
+### About me
 
-<div align="center">
+**inDJ** AI Engineer Intern (2026.07) — 위급상황 음향 탐지 시스템 평가 체계 재구축, Jetson Orin Nano 온디바이스 배포
+**조선대학교 SFAI** 학부연구생 (2024.05 ~ 2026.02) — 멀티모달 모델 실험, 학술대회 2건 발표
+**조선대학교** 인공지능공학과 (2021.03 ~ 2027.02 졸업예정)
 
-</div>
+### PUBLICATION
 
----
+**A Comparative Study of PEFT Methods on LayoutLMv3 for Visually-rich Document Understanding**
+한국ITS학회 2025 추계학술대회 · **제1저자** · 2025.10
 
-<div align="center">
+### COMPETITIONS & AWARDS
 
-*"Data-driven solutions with Engineering mindset"*
-
-</div>
+| Date | Name | Place | Award | Hosted |
+|---|---|---|---|---|
+| `2026.07` | **공공데이터·AI 활용 창업경진대회** (BeaverTalk) | — | 🥇 **최우수상** | 전북특별자치도 |
+| `2026.07` | [**AI Agent 다음 행동 예측**](https://github.com/dlxogh0906/AI-Agent-Action-Decision-Making-Prediction-Challenge) | **[26/269]** | — | Dacon |
+| `2026.02` | **LLM 모델 압축 해커톤** (LG Aimers 8기) | **[34/628]** | — | LG AI Research · Dacon |
+| `2025.10` | **학부논문경진대회** | — | 🥉 **장려상** | 한국ITS학회 |
+| `2025.09` | [**Samsung AI Challenge : Document Understanding**](https://github.com/dlxogh0906/2025-Samsung-AI-Challenge) | **[3/70]** | — | 삼성전자 AI센터 · Dacon |
+| `2025.05` | [**건설용 자갈 암석 종류 분류 AI 경진대회**](https://github.com/dlxogh0906/Rock-classification) | 🥇 **[1/342]** | — | NIA · Dacon |

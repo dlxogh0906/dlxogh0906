@@ -13,9 +13,7 @@
 
 ### PUBLICATION
 
-**A Comparative Study of PEFT Methods on LayoutLMv3 for Visually-rich Document Understanding**
-
-한국ITS학회 2025 추계학술대회 · **제1저자** · 2025.10
+**[A Comparative Study of PEFT Methods on LayoutLMv3 for Visually-rich Document Understanding]** in Proc. **한국ITS학회 2025 추계학술대회**, 2025.
 
 ### COMPETITIONS & AWARDS
 
